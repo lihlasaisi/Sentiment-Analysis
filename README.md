@@ -45,4 +45,4 @@ The evaluation metric for this challenge is the Root Mean Squared Error.
 
 ## Article Links
 
-Link to article on Medium: [https://medium.com/@lihla.saisi/indian-startup-eco-system-analysis-2018-2021-da13ad670108](https://medium.com/@lihla.saisi/sentiment-analysis-by-hugging-face-5dc69acb728f)
+Link to article on Medium: https://medium.com/@lihla.saisi/sentiment-analysis-by-hugging-face-5dc69acb728f
